@@ -1,0 +1,9 @@
+Changes
+lib/Bundle/Compress/Zlib/Lite.pm
+Makefile.PL
+MANIFEST
+README
+t/all_pod_coverage_ok.t
+t/Bundle-Compress-Zlib-Lite.t
+t/pod.t
+META.yml                                 Module meta-data (added by MakeMaker)
